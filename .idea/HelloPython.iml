@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/基本函数" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/高级变量" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/字符串进阶" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/基本操作案例" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GitHub训练" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
