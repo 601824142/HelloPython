@@ -38,9 +38,9 @@ class Person(object):
             print('%s正在玩斗地主。' % self._name)
 
 
-
 class Car(object):
     """车类"""
+
     def __init__(self, brand, max_speed):
         self.set_brand(brand)
         self.set_max_speed(max_speed)
@@ -67,12 +67,6 @@ class Car(object):
     max_speed = property(get_max_speed, set_max_speed)
 
 
-
-
-
-
-
-
 def main():
     # person = Person('万星明', 24)
     # person.play()
@@ -97,5 +91,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
