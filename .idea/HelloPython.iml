@@ -8,7 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/基本操作案例" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GitHub训练" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (HelloPython)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
