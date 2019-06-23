@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/GitHub训练/Day11/person.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GitHub训练/Day11/sources/mydict.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GitHub训练/Day11/sources/文件流读取.txt" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
