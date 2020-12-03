@@ -8,11 +8,12 @@
       <sourceFolder url="file://$MODULE_DIR$/基本操作案例" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GitHub训练" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/机器学习" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1、基本操作" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/爬虫学习" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/算法刷题" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (HelloPython)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-  <component name="TestRunnerService">
-    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
   </component>
 </module>
